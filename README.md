@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neha</h1>
-<h3 align="center">A passionate java full stack developer from India.</h3>
+<h3 align="center">A passionate Java Full Stack Developer from India.</h3>
 
-- 💬 Ask me about **Java, Spring Boot, Hibernate.**
+- 💬 Ask me about **Java, Spring Boot, Hibernate, Restful API..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
